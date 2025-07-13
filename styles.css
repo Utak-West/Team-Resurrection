@@ -62,6 +62,26 @@ body {
     color: #f39c12;
 }
 
+.pdf-download-btn {
+    background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.pdf-download-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(243, 156, 18, 0.3);
+}
+
 /* Main Content */
 .main {
     padding: 2rem 0;
@@ -333,6 +353,261 @@ h2 {
     color: #bdc3c7;
 }
 
+/* Grant Detail Styles */
+.grant-detail-header {
+    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 15px 15px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.grant-detail-header .grant-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.grant-detail-header .grant-title i {
+    font-size: 2rem;
+}
+
+.grant-detail-header .grant-title h2 {
+    margin: 0;
+    border: none;
+    padding: 0;
+    font-size: 2rem;
+}
+
+.grant-detail-header .grant-amount {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.grant-detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.detail-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border-left: 4px solid #3498db;
+}
+
+.detail-card h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    border: none;
+    padding: 0;
+}
+
+.detail-card h3 i {
+    color: #3498db;
+}
+
+.detail-card p {
+    color: #555;
+    margin: 0;
+    line-height: 1.5;
+}
+
+/* Budget Section Styles */
+.budget-section {
+    margin: 3rem 0;
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.budget-section h3 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.budget-summary-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.budget-card {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    padding: 2rem;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    border-left: 5px solid #3498db;
+    transition: transform 0.3s ease;
+}
+
+.budget-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.budget-icon {
+    background: #3498db;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.budget-info h4 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.budget-amount {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #27ae60;
+    margin-bottom: 0.25rem;
+}
+
+.budget-percentage {
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+/* Modern Budget Table Styles */
+.budget-table-container {
+    margin: 2rem 0;
+}
+
+.budget-table-container h4 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.budget-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.budget-table thead {
+    background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+    color: white;
+}
+
+.budget-table th,
+.budget-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #ecf0f1;
+}
+
+.budget-table th {
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.budget-table tbody tr {
+    transition: background-color 0.3s ease;
+}
+
+.budget-table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.budget-table tbody tr:nth-child(even) {
+    background-color: #fdfdfd;
+}
+
+.budget-table .total-row {
+    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+    color: white;
+    font-weight: 600;
+}
+
+.budget-table .total-row:hover {
+    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+}
+
+.total-cell {
+    font-weight: 600;
+    color: #27ae60;
+}
+
+.budget-table .total-row .total-cell {
+    color: white;
+}
+
+.progress-details {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.5rem;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.progress-stat {
+    text-align: center;
+}
+
+.progress-stat .stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.progress-stat .stat-label {
+    display: block;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.youth-mentorship-progress {
+    background: linear-gradient(90deg, #e74c3c 0%, #f39c12 100%);
+    width: 75%;
+    transition: width 1s ease-in-out;
+}
+
+.safe-passage-progress {
+    background: linear-gradient(90deg, #3498db 0%, #2ecc71 100%);
+    width: 80%;
+    transition: width 1s ease-in-out;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .header-content {
@@ -374,6 +649,50 @@ h2 {
     
     .tab-button {
         padding: 0.75rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* Grant Detail Mobile */
+    .grant-detail-header {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+
+    .grant-detail-header .grant-amount {
+        font-size: 2rem;
+    }
+
+    .grant-detail-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .budget-summary-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .budget-card {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .progress-details {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .budget-table {
+        font-size: 0.8rem;
+    }
+
+    .budget-table th,
+    .budget-table td {
+        padding: 0.5rem;
+    }
+
+    .pdf-download-btn {
+        padding: 0.5rem 1rem;
         font-size: 0.9rem;
     }
 }
