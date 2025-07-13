@@ -1,5 +1,7 @@
 {
   "name": "team-resurrection-grants",
+  "buildCommand": "echo 'Static site - no build required'",
+  "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
