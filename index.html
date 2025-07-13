@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Resurrection Grant Progress Dashboard</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-hands-helping"></i>
+                    <h1>Team Resurrection Inc.</h1>
+                </div>
+                <div class="header-info">
+                    <p>Grant Applications Dashboard</p>
+                    <p class="director">Program Director: Malika McCall</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Navigation Tabs -->
+            <nav class="tab-navigation">
+                <div class="tab-buttons">
+                    <button type="button" class="tab-button active" data-tab="overview">
+                        <i class="fas fa-chart-pie"></i>
+                        Portfolio Overview
+                    </button>
+                    <button type="button" class="tab-button" data-tab="youth-mentorship">
+                        <i class="fas fa-heart"></i>
+                        Youth Mentorship Grant
+                    </button>
+                    <button type="button" class="tab-button" data-tab="safe-passage">
+                        <i class="fas fa-shield-alt"></i>
+                        Safe Passage Grant
+                    </button>
+                </div>
+            </nav>
+
+            <!-- Overview Tab Content -->
+            <div id="overview-content" class="tab-content active">
+                <!-- Overview Section -->
+                <section class="overview">
+                    <h2>Grant Portfolio Overview</h2>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <i class="fas fa-dollar-sign"></i>
+                            <h3>$945,000</h3>
+                            <p>Total Funding Request</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-users"></i>
+                            <h3>2,725+</h3>
+                            <p>Youth Served</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-calendar"></i>
+                            <h3>July 2025</h3>
+                            <p>Target Start Date</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <h3>Newark, NJ</h3>
+                            <p>West Ward Focus</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Grant Applications Section -->
+                <section class="grants">
+                    <h2>Active Grant Applications</h2>
+                    
+                    <!-- Youth Mentorship Grant -->
+                    <div class="grant-card">
+                        <div class="grant-header">
+                            <div class="grant-title">
+                                <i class="fas fa-heart"></i>
+                                <h3>Youth Mentorship Program</h3>
+                            </div>
+                            <div class="grant-amount">$425,000</div>
+                        </div>
+                        
+                        <div class="grant-details">
+                            <div class="detail-row">
+                                <span class="label">Target Population:</span>
+                                <span class="value">125 youth participants and families</span>
+                            </div>
+                            <div class="detail-row">
+                                <span class="label">Service Model:</span>
+                                <span class="value">Six-site community hub model</span>
+                            </div>
+                            <div class="detail-row">
+                                <span class="label">Key Services:</span>
+                                <span class="value">Daily meals, JJC specialization, family wraparound</span>
+                            </div>
+                        </div>
+
+                        <div class="progress-section">
+                            <h4>Application Progress</h4>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 75%"></div>
+                            </div>
+                            <div class="progress-items">
+                                <div class="progress-item completed">
+                                    <i class="fas fa-check"></i>
+                                    <span>Initial Draft Complete</span>
+                                </div>
+                                <div class="progress-item completed">
+                                    <i class="fas fa-check"></i>
+                                    <span>Budget Framework</span>
+                                </div>
+                                <div class="progress-item in-progress">
+                                    <i class="fas fa-clock"></i>
+                                    <span>Narrative Enhancement</span>
+                                </div>
+                                <div class="progress-item pending">
+                                    <i class="fas fa-circle"></i>
+                                    <span>Supporting Documents</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Safe Passage Grant -->
+                    <div class="grant-card">
+                        <div class="grant-header">
+                            <div class="grant-title">
+                                <i class="fas fa-shield-alt"></i>
+                                <h3>Safe Passage Program</h3>
+                            </div>
+                            <div class="grant-amount">$520,000</div>
+                        </div>
+                        
+                        <div class="grant-details">
+                            <div class="detail-row">
+                                <span class="label">Target Population:</span>
+                                <span class="value">2,600+ students (Westside & Central HS)</span>
+                            </div>
+                            <div class="detail-row">
+                                <span class="label">Service Model:</span>
+                                <span class="value">School zone safety corridors</span>
+                            </div>
+                            <div class="detail-row">
+                                <span class="label">Key Services:</span>
+                                <span class="value">Corner deployment, professional training, team building</span>
+                            </div>
+                        </div>
+
+                        <div class="progress-section">
+                            <h4>Application Progress</h4>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 80%"></div>
+                            </div>
+                            <div class="progress-items">
+                                <div class="progress-item completed">
+                                    <i class="fas fa-check"></i>
+                                    <span>Initial Draft Complete</span>
+                                </div>
+                                <div class="progress-item completed">
+                                    <i class="fas fa-check"></i>
+                                    <span>Budget Framework</span>
+                                </div>
+                                <div class="progress-item completed">
+                                    <i class="fas fa-check"></i>
+                                    <span>Needs Assessment</span>
+                                </div>
+                                <div class="progress-item in-progress">
+                                    <i class="fas fa-clock"></i>
+                                    <span>Final Review</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Timeline Section -->
+                <section class="timeline">
+                    <h2>Grant Timeline</h2>
+                    <div class="timeline-container">
+                        <div class="timeline-item completed">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Initial Applications Drafted</h4>
+                                <p>July 6, 2025</p>
+                                <span class="status completed">Completed</span>
+                            </div>
+                        </div>
+                        <div class="timeline-item in-progress">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Application Enhancement</h4>
+                                <p>July 13, 2025</p>
+                                <span class="status in-progress">In Progress</span>
+                            </div>
+                        </div>
+                        <div class="timeline-item pending">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Supporting Documentation</h4>
+                                <p>July 20, 2025</p>
+                                <span class="status pending">Pending</span>
+                            </div>
+                        </div>
+                        <div class="timeline-item pending">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Final Submission</h4>
+                                <p>July 30, 2025</p>
+                                <span class="status pending">Pending</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Next Steps Section -->
+                <section class="next-steps">
+                    <h2>Immediate Next Steps</h2>
+                    <div class="steps-grid">
+                        <div class="step-card priority-high">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            <h4>High Priority</h4>
+                            <ul>
+                                <li>Strengthen organizational capacity sections</li>
+                                <li>Enhance problem statements with data</li>
+                                <li>Improve budget justifications</li>
+                            </ul>
+                        </div>
+                        <div class="step-card priority-medium">
+                            <i class="fas fa-clock"></i>
+                            <h4>Medium Priority</h4>
+                            <ul>
+                                <li>Develop evaluation methodologies</li>
+                                <li>Create sustainability plans</li>
+                                <li>Gather letters of support</li>
+                            </ul>
+                        </div>
+                        <div class="step-card priority-low">
+                            <i class="fas fa-check-circle"></i>
+                            <h4>Final Steps</h4>
+                            <ul>
+                                <li>Final quality assurance review</li>
+                                <li>Format for submission</li>
+                                <li>Submit applications</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            </div>

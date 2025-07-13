@@ -1,0 +1,27 @@
+{
+  "name": "team-resurrection-grants",
+  "version": "1.0.0",
+  "description": "Grant progress dashboard for Team Resurrection Inc.'s Youth Mentorship and Safe Passage grant applications",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "vercel --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Utak-West/Team-Resurrection.git"
+  },
+  "keywords": [
+    "grants",
+    "nonprofit",
+    "youth-mentorship",
+    "safe-passage",
+    "newark",
+    "violence-prevention",
+    "dashboard"
+  ],
+  "author": "Team Resurrection Inc.",
+  "license": "MIT",
+  "homepage": "https://team-resurrection-grants.vercel.app"
+}
