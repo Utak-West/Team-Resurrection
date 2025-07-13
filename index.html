@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Team Resurrection Grant Progress Dashboard</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
 </head>
 <body>
@@ -18,6 +19,10 @@
                 <div class="header-info">
                     <p>Grant Applications Dashboard</p>
                     <p class="director">Program Director: Malika McCall</p>
+                    <button type="button" class="pdf-download-btn" onclick="downloadPDF()">
+                        <i class="fas fa-download"></i>
+                        Download PDF
+                    </button>
                 </div>
             </div>
         </div>
@@ -248,6 +253,202 @@
                                 <li>Format for submission</li>
                                 <li>Submit applications</li>
                             </ul>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Youth Mentorship Grant Tab Content -->
+            <div id="youth-mentorship-content" class="tab-content">
+                <section class="grant-detail">
+                    <div class="grant-detail-header">
+                        <div class="grant-title">
+                            <i class="fas fa-heart"></i>
+                            <h2>Youth Mentorship Program</h2>
+                        </div>
+                        <div class="grant-amount">$425,000</div>
+                    </div>
+
+                    <div class="grant-detail-grid">
+                        <div class="detail-card">
+                            <h3><i class="fas fa-users"></i> Target Population</h3>
+                            <p>125 youth participants and their families across six community sites</p>
+                        </div>
+                        <div class="detail-card">
+                            <h3><i class="fas fa-calendar"></i> Program Duration</h3>
+                            <p>July 15, 2025 - July 14, 2026 (12 months)</p>
+                        </div>
+                        <div class="detail-card">
+                            <h3><i class="fas fa-map-marker-alt"></i> Service Model</h3>
+                            <p>Six-site community hub model with intensive mentoring</p>
+                        </div>
+                        <div class="detail-card">
+                            <h3><i class="fas fa-utensils"></i> Daily Services</h3>
+                            <p>145 lunches + 110 breakfasts served daily</p>
+                        </div>
+                    </div>
+
+                    <!-- Budget Section -->
+                    <div class="budget-section">
+                        <h3><i class="fas fa-chart-pie"></i> Detailed Budget Breakdown</h3>
+                        <div class="budget-summary-cards">
+                            <div class="budget-card">
+                                <div class="budget-icon">
+                                    <i class="fas fa-users"></i>
+                                </div>
+                                <div class="budget-info">
+                                    <h4>Personnel</h4>
+                                    <div class="budget-amount">$297,500</div>
+                                    <div class="budget-percentage">70%</div>
+                                </div>
+                            </div>
+                            <div class="budget-card">
+                                <div class="budget-icon">
+                                    <i class="fas fa-utensils"></i>
+                                </div>
+                                <div class="budget-info">
+                                    <h4>Meals & Nutrition</h4>
+                                    <div class="budget-amount">$85,000</div>
+                                    <div class="budget-percentage">20%</div>
+                                </div>
+                            </div>
+                            <div class="budget-card">
+                                <div class="budget-icon">
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <div class="budget-info">
+                                    <h4>Enrichment Activities</h4>
+                                    <div class="budget-amount">$45,000</div>
+                                    <div class="budget-percentage">11%</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Detailed Budget Table -->
+                        <div class="budget-table-container">
+                            <h4>Personnel Budget Details</h4>
+                            <table class="budget-table">
+                                <thead>
+                                    <tr>
+                                        <th>Position</th>
+                                        <th>FTE</th>
+                                        <th>Annual Salary</th>
+                                        <th>Benefits (28%)</th>
+                                        <th>Total Cost</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Program Director (Malika McCall)</td>
+                                        <td>1.0</td>
+                                        <td>$65,000</td>
+                                        <td>$18,200</td>
+                                        <td class="total-cell">$83,200</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Site Coordinators (6)</td>
+                                        <td>6.0</td>
+                                        <td>$45,000</td>
+                                        <td>$75,600</td>
+                                        <td class="total-cell">$345,600</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Youth Mentors (12)</td>
+                                        <td>6.0</td>
+                                        <td>$35,000</td>
+                                        <td>$58,800</td>
+                                        <td class="total-cell">$268,800</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Family Support Specialists (3)</td>
+                                        <td>3.0</td>
+                                        <td>$40,000</td>
+                                        <td>$33,600</td>
+                                        <td class="total-cell">$153,600</td>
+                                    </tr>
+                                    <tr class="total-row">
+                                        <td><strong>Total Personnel</strong></td>
+                                        <td><strong>16.0</strong></td>
+                                        <td><strong>$185,000</strong></td>
+                                        <td><strong>$186,200</strong></td>
+                                        <td class="total-cell"><strong>$851,200</strong></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!-- Program Costs Table -->
+                        <div class="budget-table-container">
+                            <h4>Program Costs Breakdown</h4>
+                            <table class="budget-table">
+                                <thead>
+                                    <tr>
+                                        <th>Category</th>
+                                        <th>Description</th>
+                                        <th>Annual Cost</th>
+                                        <th>% of Budget</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Daily Meals</td>
+                                        <td>145 lunches + 110 breakfasts daily</td>
+                                        <td class="total-cell">$85,000</td>
+                                        <td>20.0%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>JJC Enrichment</td>
+                                        <td>Community activities for 30+ JJC participants</td>
+                                        <td class="total-cell">$45,000</td>
+                                        <td>10.6%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Family Support</td>
+                                        <td>Gift cards and emergency assistance</td>
+                                        <td class="total-cell">$5,000</td>
+                                        <td>1.2%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Recognition & Incentives</td>
+                                        <td>Certificates and achievement events</td>
+                                        <td class="total-cell">$2,000</td>
+                                        <td>0.5%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Administrative Costs</td>
+                                        <td>Office supplies, communications, insurance</td>
+                                        <td class="total-cell">$34,000</td>
+                                        <td>8.0%</td>
+                                    </tr>
+                                    <tr class="total-row">
+                                        <td><strong>Total Program Costs</strong></td>
+                                        <td><strong>All direct program expenses</strong></td>
+                                        <td class="total-cell"><strong>$171,000</strong></td>
+                                        <td><strong>40.2%</strong></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="progress-section">
+                        <h3>Application Progress</h3>
+                        <div class="progress-bar">
+                            <div class="progress-fill youth-mentorship-progress"></div>
+                        </div>
+                        <div class="progress-details">
+                            <div class="progress-stat">
+                                <span class="stat-number">75%</span>
+                                <span class="stat-label">Complete</span>
+                            </div>
+                            <div class="progress-stat">
+                                <span class="stat-number">July 30</span>
+                                <span class="stat-label">Deadline</span>
+                            </div>
+                            <div class="progress-stat">
+                                <span class="stat-number">$425K</span>
+                                <span class="stat-label">Requested</span>
+                            </div>
                         </div>
                     </div>
                 </section>
