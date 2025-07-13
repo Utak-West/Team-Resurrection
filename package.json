@@ -23,5 +23,8 @@
   ],
   "author": "Team Resurrection Inc.",
   "license": "MIT",
-  "homepage": "https://team-resurrection-grants.vercel.app"
+  "homepage": "https://team-resurrection-grants.vercel.app",
+  "devDependencies": {
+    "vercel": "^44.4.1"
+  }
 }

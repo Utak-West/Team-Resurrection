@@ -7,9 +7,15 @@
 
 ### **Leadership Excellence**
 
-**Malika McCall - Executive Director & Program Director**
+**Malika McCall - Founder & Executive Director**
 
-Malika McCall brings visionary leadership and deep community expertise to Team Resurrection Inc., driving innovative approaches to violence prevention and youth development in Newark's most challenged communities. Under her direction, Team Resurrection has established itself as a leading provider of community-based violence intervention services, with particular expertise in creating safe environments for youth and families in high-risk communities.
+Malika McCall brings visionary leadership and deep community expertise to Team Resurrection Inc., driving innovative approaches to violence prevention and youth development in Newark's most challenged communities. As a product of the Foster Care system (ages 3-18), Malika has overcome homelessness, unemployment, and legal challenges to become a transformational leader in community-based violence intervention services.
+
+**Personal Journey & Credibility:**
+- **Lived Experience**: Product of Foster Care system with personal understanding of systemic challenges
+- **Entrepreneurial Success**: Owner of "Giving It A Woman's Touch Painting & Janitorial Service"
+- **Community Investment**: Uses business as apprenticeship program for young people and adults
+- **Organizational Founding**: Established Team Resurrection Inc. in 2010 with clear vision for community transformation
 
 **Leadership Achievements:**
 - **Proven Program Management**: Successfully managing multiple concurrent programs serving justice-involved youth and families
@@ -26,16 +32,58 @@ Malika McCall brings visionary leadership and deep community expertise to Team R
 - Grant management and nonprofit administration
 - Community partnership development and stakeholder engagement
 
+**Kenneth Wilson - Director of Re-Entry Services**
+
+Kenneth Wilson brings unparalleled expertise in reentry services, having served 32 years in East Jersey State Prison before becoming Executive Director of Team Resurrection Inc. Reentry Services. His lived experience and professional development create authentic, effective programming for justice-involved individuals.
+
+**Professional Background:**
+- **Lived Experience**: 32 years incarcerated, providing deep understanding of reentry challenges
+- **Expertise**: Conflict resolution and comprehensive reentry services
+- **Program Development**: Created evidence-based reentry programs based on personal and professional experience
+- **Service Focus**: Victim support, job readiness, housing assistance, professional attire provision
+
+**Shynell McCall - Community Outreach Specialist**
+
+Shynell McCall serves as Police Sergeant with the Irvington Police Department (11+ years) while providing 13 years of Community Outreach services for Team Resurrection Inc., creating unique bridge between law enforcement and community-based services.
+
+**Dual Professional Role:**
+- **Law Enforcement**: Police Sergeant, Irvington Police Department (promoted 2019)
+- **Community Outreach**: 13 years as Community Outreach Specialist for TRI
+- **Geographic Connection**: Native of Newark, New Jersey with deep community roots
+- **Mission Focus**: Recruiting young men of color into law enforcement while building police-community partnerships
+
+**MaJeedah R. - Executive Assistant**
+
+MaJeedah R. brings 13+ years of executive assistance experience with specialized expertise in program development and event planning for nonprofit organizations.
+
+**Professional Background:**
+- **Education**: Bachelor of Arts in Communications, Virginia State University
+- **Experience**: Former head library assistant and peer tutor
+- **Entrepreneurship**: Owner of Professional Makeup Artist Business
+- **TRI Role**: Program development and event planning coordination
+
 ---
 
 ### **Organization Overview**
 
 **Mission**: "Restoring life to our community and its people"
 
+**Vision**: Breaking the cycle of incarceration by providing essential life skills and resources for independent living, with a focus on empowering justice-impacted individuals through supportive housing, comprehensive services, and community reintegration assistance.
+
 **Founded**: 2010
 **Legal Status**: 501(c)(3) nonprofit organization
 **EIN**: 20-8965784
+**UEI**: WGHLGCP9E2S5
+**CAGE Code**: 508N2
 **Service Area**: Newark, New Jersey (Primary focus: West Ward)
+
+**Contact Information:**
+- **Primary Address**: 172 16th Ave, Newark, NJ 07103
+- **Mailing Address**: P.O. Box 3489, Newark, NJ 07108
+- **Alternative Address**: 264 14th Ave, Newark, NJ 07103-1933
+- **Phone**: (973) 991-3594 | (973) 954-7747 | (973) 342-5006
+- **Email**: tryresurrection@gmail.com | tryresurrection@aol.com
+- **Website**: https://www.teamresurrectioninc.org/
 
 **Organizational Certifications:**
 - Black American Owned Business
@@ -61,7 +109,32 @@ Recognition that sustainable change requires addressing family systems and commu
 
 ---
 
-### **Current Grant Portfolio: $945,000 Strategic Investment**
+### **Comprehensive Grant Portfolio: $1,649,500+ Total Funding Strategy**
+
+Team Resurrection demonstrates exceptional grant management capacity with a diversified funding portfolio spanning federal, state, and local sources. Our current strategy combines secured funding with strategic new applications, showcasing organizational growth and sustainability.
+
+#### **Secured Grant Portfolio: $704,500**
+
+**Federal Grants - New Jersey Department of Agriculture: $440,500**
+*Summer Food Program (Child Nutrition Programs) - Active recipient since 2023*
+
+- **$35,300** - Award Date: 03/03/25 - Summer Food Program
+- **$64,000** - Award Date: 08/09/24 - Summer Food Program
+- **$59,900** - Award Date: 12/22/23 - Summer Food Program
+- **$57,100** - Award Date: 11/09/23 - Summer Food Program
+- **$82,600** - Award Date: 01/27/23 - Summer Food Program
+- **Additional Awards** - 3 additional Summer Food Program grants
+
+**City of Newark Antiviolence Grant: $124,000 (2023)**
+*Youth Mentoring Services - Successfully awarded and implemented*
+
+**Essex County Family Court Grant: $140,000 (APPROVED)**
+*New Pathways Transitional Housing Program - Awaiting funding disbursement*
+- Target Population: Justice-involved youth aged 18-24
+- Submission Date: March 31, 2025
+- Status: APPROVED - Awaiting funding disbursement
+
+#### **Current Strategic Applications: $945,000**
 
 Team Resurrection is currently pursuing a comprehensive dual-grant strategy that demonstrates our organizational capacity for large-scale, coordinated programming while addressing multiple intervention points in violence prevention and youth development.
 
@@ -109,24 +182,45 @@ Our professional grant tracking dashboard features:
 
 ---
 
+### **Evidence-Based Practices & Organizational Excellence**
+
+#### Validated Program Models
+Team Resurrection Inc. implements evidence-based models that have demonstrated effectiveness in juvenile justice and reentry programming:
+
+- **Missouri Model**: Small, homelike environments with therapeutic approach for residential programming
+- **Credible Messenger Mentoring**: Staff with lived experience providing authentic, relationship-based services
+- **Positive Youth Justice Model**: Focus on building skills and competencies rather than deficit-based approaches
+- **YASI Assessment**: Youth Assessment and Screening Instrument for individualized service planning
+- **Trauma-Informed Care**: Comprehensive approach addressing underlying trauma factors
+
+#### Grant Management Excellence
+- **100%** on-time grant reporting across all funding sources
+- **Zero** compliance violations or audit findings in organizational history
+- **Consistent** achievement of proposed outcomes across all programs
+- **Strong** relationships with funding agencies at federal, state, and local levels
+
 ### **Documented Outcomes & Impact**
 
 #### Violence Reduction Results
 - **Documented reductions** in violence in areas with consistent Team Resurrection presence
 - **Successful conflict mediation** preventing violence escalation in high-risk situations
 - **Community safety improvements** with measurable increases in resident confidence
+- **Reduced juvenile detention population** in Essex County through community-based alternatives
 
 #### Youth Development Success
 - **91% of graduates** remained arrest-free in year following program discharge
 - **85% successful completion rate** for transitional housing program participants
 - **78% employment placement rate** for program graduates
 - **70% stable housing placement** post-program completion
+- **90%** court compliance rates for program participants
 
 #### Community Capacity Building
 - **Established partnerships** with schools, law enforcement, and community organizations
 - **Resident leadership development** through community organizing initiatives
 - **Volunteer recruitment and management** systems supporting program expansion
 - **Evidence-based practice implementation** using validated assessment tools
+- **Cost savings** compared to secure detention alternatives
+- **Decreased racial and ethnic disparities** in juvenile justice system outcomes
 
 ---
 
