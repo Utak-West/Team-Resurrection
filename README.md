@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 **Leadership Excellence**
+### **Leadership Excellence**
 
 **Malika McCall - Executive Director & Program Director**
 
@@ -28,7 +28,7 @@ Malika McCall brings visionary leadership and deep community expertise to Team R
 
 ---
 
-### 🏢 **Organization Overview**
+### **Organization Overview**
 
 **Mission**: "Restoring life to our community and its people"
 
@@ -45,7 +45,7 @@ Malika McCall brings visionary leadership and deep community expertise to Team R
 
 ---
 
-### 🎯 **Core Impact Areas**
+### **Core Impact Areas**
 
 #### Violence Prevention & Intervention
 Team Resurrection operates comprehensive violence interruption and crisis response programming throughout Newark, providing immediate intervention services while building long-term capacity for conflict resolution and community healing. Our violence interrupters maintain consistent presence in high-risk areas, successfully mediating conflicts and creating documented reductions in violence.
@@ -61,11 +61,11 @@ Recognition that sustainable change requires addressing family systems and commu
 
 ---
 
-### 📊 **Current Grant Portfolio: $945,000 Strategic Investment**
+### **Current Grant Portfolio: $945,000 Strategic Investment**
 
 Team Resurrection is currently pursuing a comprehensive dual-grant strategy that demonstrates our organizational capacity for large-scale, coordinated programming while addressing multiple intervention points in violence prevention and youth development.
 
-#### 🤝 **Youth Mentorship Program - $425,000**
+#### **Youth Mentorship Program - $425,000**
 *Intensive, relationship-based youth development with comprehensive family systems approach*
 
 **Target Impact**: 125 youth participants and their families
@@ -76,7 +76,7 @@ Team Resurrection is currently pursuing a comprehensive dual-grant strategy that
 
 **Evidence of Readiness**: Currently serving 30 youth through courts with proven capacity for expansion
 
-#### 🛡️ **Safe Passage Program - $520,000**
+#### **Safe Passage Program - $520,000**
 *Environmental crime prevention through professional school zone safety programming*
 
 **Target Impact**: 2,600+ students at Westside High School and Central High School
@@ -87,7 +87,7 @@ Team Resurrection is currently pursuing a comprehensive dual-grant strategy that
 
 **Innovation**: Coordinated communication systems and evidence-based training protocols
 
-#### 💪 **Combined Strategic Impact**
+#### **Combined Strategic Impact**
 - **Total Investment**: $945,000 leveraging significant matching resources
 - **Comprehensive Coverage**: Individual, family, and environmental intervention levels
 - **Resource Efficiency**: Shared leadership and administrative systems under Malika McCall's direction
@@ -96,7 +96,7 @@ Team Resurrection is currently pursuing a comprehensive dual-grant strategy that
 
 ---
 
-### 🌐 **Interactive Grant Dashboard**
+### **Interactive Grant Dashboard**
 
 **Live Dashboard**: [https://team-resurrection-grants.vercel.app](https://team-resurrection-grants.vercel.app)
 
@@ -109,7 +109,7 @@ Our professional grant tracking dashboard features:
 
 ---
 
-### 🏆 **Documented Outcomes & Impact**
+### **Documented Outcomes & Impact**
 
 #### Violence Reduction Results
 - **Documented reductions** in violence in areas with consistent Team Resurrection presence
@@ -130,7 +130,7 @@ Our professional grant tracking dashboard features:
 
 ---
 
-### 🤝 **Development Team & Acknowledgments**
+### **Development Team & Acknowledgments**
 
 This comprehensive grant dashboard and repository showcase represents a collaborative effort to highlight Team Resurrection Inc.'s excellence in community-based violence prevention and youth development.
 
@@ -161,7 +161,7 @@ Visionary leadership and program direction ensuring all materials accurately ref
 
 ---
 
-### 📞 **Contact Information**
+### **Contact Information**
 
 #### **Team Resurrection Inc.**
 **Executive Director**: Malika McCall
@@ -183,7 +183,7 @@ Visionary leadership and program direction ensuring all materials accurately ref
 
 ---
 
-### 📄 **Repository Purpose & Usage**
+### **Repository Purpose & Usage**
 
 This repository serves multiple purposes:
 
@@ -205,13 +205,13 @@ This repository serves multiple purposes:
 
 ---
 
-### 🔗 **Quick Links**
+### **Quick Links**
 
-- **🌐 Live Dashboard**: [https://team-resurrection-grants.vercel.app](https://team-resurrection-grants.vercel.app)
-- **📧 Contact Malika McCall**: [tryresurrection@aol.com](mailto:tryresurrection@aol.com)
-- **🏢 Organization Website**: [https://www.teamresurrectioninc.org](https://www.teamresurrectioninc.org)
-- **📱 Phone**: [(973) 342-5006](tel:9733425006)
-- **📍 Address**: [172 16th Ave, Newark, NJ 07103](https://maps.google.com/?q=172+16th+Ave,+Newark,+NJ+07103)
+- **Live Dashboard**: [https://team-resurrection-grants.vercel.app](https://team-resurrection-grants.vercel.app)
+- **Contact Malika McCall**: [tryresurrection@aol.com](mailto:tryresurrection@aol.com)
+- **Organization Website**: [https://www.teamresurrectioninc.org](https://www.teamresurrectioninc.org)
+- **Phone**: [(973) 342-5006](tel:9733425006)
+- **Address**: [172 16th Ave, Newark, NJ 07103](https://maps.google.com/?q=172+16th+Ave,+Newark,+NJ+07103)
 
 ---
 
