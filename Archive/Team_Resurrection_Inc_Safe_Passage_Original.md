@@ -4,9 +4,9 @@
 
 ---
 
-**Submitted by:** Team Resurrection Inc.  
-**Program Director:** Malika [Last Name]  
-**Date:** July 6, 2025  
+**Submitted by:** Team Resurrection Inc.
+**Program Director:** Malika McCall
+**Date:** July 6, 2025
 **Requested Amount:** $520,000  
 **Grant Period:** July 15, 2025 - July 14, 2026  
 **Program Focus:** School Zone Safety and Violence Prevention
@@ -15,7 +15,7 @@
 
 ## Executive Summary
 
-Team Resurrection Inc. respectfully submits this proposal for $520,000 to implement the "Safe Passage Program," a comprehensive school zone safety initiative that provides coordinated violence prevention and safety services in the immediate vicinity of Westside High School and Central High School in Newark's West Ward. Under the experienced leadership of Program Director Malika, this initiative represents an innovative approach to community-based violence prevention that creates safe corridors for students while building community capacity for ongoing safety and violence prevention.
+Team Resurrection Inc. respectfully submits this proposal for $520,000 to implement the "Safe Passage Program," a comprehensive school zone safety initiative that provides coordinated violence prevention and safety services in the immediate vicinity of Westside High School and Central High School in Newark's West Ward. Under the experienced leadership of Program Director Malika McCall, this initiative represents an innovative approach to community-based violence prevention that creates safe corridors for students while building community capacity for ongoing safety and violence prevention.
 
 The Safe Passage Program addresses the critical need for enhanced safety measures in school zones where students are particularly vulnerable to violence exposure and involvement. Our comprehensive approach includes deployment of trained Safe Passage workers at strategic corner locations surrounding both target schools, creating a coordinated safety network that provides both immediate protection and ongoing violence prevention services for students, families, and community members.
 
